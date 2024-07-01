@@ -89,6 +89,7 @@ section header {
 
   img {
     width: 176px;
+    border-radius: 4px;
     aspect-ratio: 1/1;
     object-fit: cover;
   }
@@ -104,13 +105,14 @@ aside {
 
 #more {
   margin-top: 32px;
-  
+
   h3 {
     margin-top: 8px;
   }
 
   img {
     width: 72px;
+    border-radius: 4px;
     aspect-ratio: 1/1;
     object-fit: cover;
   }
